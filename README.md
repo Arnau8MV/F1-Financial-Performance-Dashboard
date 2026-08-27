@@ -11,7 +11,7 @@ The dashboard helps analyze financial dynamics by establishing correlation betwe
 ### 1. Investor Return on Investment (ROI)
 Analyzes estimated operating return on investment across F1 constructors per season.
 
-![Investor ROI](slide1.png)
+![Investor ROI](ROI.png)
 
 * **Market Leader:** The grid leader is **Red Bull Racing**, showing outstanding **83.82% ROI**, twice as high as that of any of its rivals due to the highest championship efficiency compared to its capital structure.
 * **Midfield Efficiency:** **McLaren (46.87%)**, **RB / AlphaTauri (43.02%)** and **Alpine (42.03%)** demonstrate balanced return on investment metrics, achieving maximum commercial efficiency in relation to operational expenses.
@@ -21,7 +21,7 @@ Analyzes estimated operating return on investment across F1 constructors per sea
 ### 2. Operating Budget vs. Sponsorship Revenue ($M)
 Analyses the total team operational expenses against commercial sponsorship revenue.
 
-![Operating Budget vs Sponsorship](slide3.png)
+![Operating Budget vs Sponsorship](OBvsSR.png)
 
 * **Highest Budget Spenders:** The highest operating budgets are demonstrated by **Ferrari ($423M budget / $363M sponsorship)** and **Mercedes ($374M budget / $329M sponsorship)**.
 * **Commercial Profitability:** **Red Bull Racing** produces **$370M** worth of sponsorship revenues against its operating budget of **$309M**.
@@ -31,7 +31,7 @@ Analyses the total team operational expenses against commercial sponsorship reve
 ### 3. Financial Efficiency: Cost per Championship Point ($M / Pt)
 Measuring capital efficiency using the analysis of operating budget against championship points score *(the lower number shows higher spending efficiency)*.
 
-![Cost Per Point](slide2.png)
+![Cost Per Point](FinancialEfficiency.png)
 
 * **Best Spending Efficiency:** **Haas ($0.17M/Pt)** and **Williams ($0.19M/Pt)** have the best cost-per-point spending efficiency numbers.
 * **Best-in-Class:** **Red Bull Racing ($0.36M/Pt)** demonstrates optimal spending efficiency among top championship competitors.
