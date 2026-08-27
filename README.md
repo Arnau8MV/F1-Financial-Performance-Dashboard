@@ -1,44 +1,41 @@
 #Formula 1 Financial Performance & Efficiency Analytics
 
 ##Project Overview
-This repository contains a comprehensive Power BI analytics solution evaluating the financial dynamics, investor return on investment (ROI), and spending efficiency across Formula 1 teams before and after the FIA budget cap regulations. 
+This GitHub repository is home to a complete Power BI dashboard solution that analyzes financial dynamics, investor return on investment (ROI) and spending efficiency of Formula 1 teams before and after FIA budget cap rules.
 
-The dashboard provides strategic financial insights by correlating team operating budgets, sponsorship revenue streams, and on-track championship performance.
+The dashboard helps analyze financial dynamics by establishing correlation between team operating budgets, sponsorship revenue sources, and race championship performances of the teams.
 
 
-
-##Dashboard Previews & Key Insights
+##Dashboards Preview & Insights
 
 ### 1. Investor Return on Investment (ROI)
-Evaluates the estimated operating return on capital investment across F1 constructors per season.
+Analyzes estimated operating return on investment across F1 constructors per season.
 
 ![Investor ROI](slide1.png)
 
-* **Market Leader:** **Red Bull Racing** dominates the grid with an exceptional **83.82% ROI**, nearly doubling the return of its closest competitors due to high championship efficiency relative to overall capital structure.
-* **Midfield Efficiency:** **McLaren (46.87%)**, **RB / AlphaTauri (43.02%)**, and **Alpine (42.03%)** display balanced ROI metrics, maximizing commercial returns relative to operational outlays.
-* **Capital Heavy Teams:** Legacy teams like **Ferrari (27.19%)** and **Mercedes (31.55%)** show lower percentage returns due to significantly higher structural operating costs.
-
+* **Market Leader:** The grid leader is **Red Bull Racing**, showing outstanding **83.82% ROI**, twice as high as that of any of its rivals due to the highest championship efficiency compared to its capital structure.
+* **Midfield Efficiency:** **McLaren (46.87%)**, **RB / AlphaTauri (43.02%)** and **Alpine (42.03%)** demonstrate balanced return on investment metrics, achieving maximum commercial efficiency in relation to operational expenses.
+* **Heavy Capital Teams:** The legacy teams such as **Ferrari (27.19%)** and **Mercedes (31.55%)** are demonstrating lower percentage returns due to their significantly higher operating structural costs.
 
 
 ### 2. Operating Budget vs. Sponsorship Revenue ($M)
-Compares total team operational spending against secured commercial sponsorship revenue.
+Analyses the total team operational expenses against commercial sponsorship revenue.
 
 ![Operating Budget vs Sponsorship](slide3.png)
 
-* **Top Budget Spenders:** **Ferrari ($423M budget / $363M sponsorship)** and **Mercedes ($374M budget / $329M sponsorship)** operate at the highest capital volume.
-* **Commercial Surplus:** **Red Bull Racing** generates **$370M** in sponsorship revenue against an operating budget of **$309M**, highlighting strong commercial profitability.
-* **Resource Constraints:** **Haas ($150M budget)** and **Williams ($160M budget)** operate near the lower threshold of team budgets, relying heavily on localized commercial partnerships.
-
+* **Highest Budget Spenders:** The highest operating budgets are demonstrated by **Ferrari ($423M budget / $363M sponsorship)** and **Mercedes ($374M budget / $329M sponsorship)**.
+* **Commercial Profitability:** **Red Bull Racing** produces **$370M** worth of sponsorship revenues against its operating budget of **$309M**.
+* **Resource Limited:** **Haas ($150M budget)** and **Williams ($160M budget)** work with lower threshold of team budgets, relying heavily on local commercial sponsorships.
 
 
 ### 3. Financial Efficiency: Cost per Championship Point ($M / Pt)
-Measures capital efficiency by analyzing operating expenditure against championship points scored *(lower values indicate higher spending efficiency)*.
+Measuring capital efficiency using the analysis of operating budget against championship points score *(the lower number shows higher spending efficiency)*.
 
 ![Cost Per Point](slide2.png)
 
-* **Most Efficient:** **Haas ($0.17M/Pt)** and **Williams ($0.19M/Pt)** lead in cost-per-point efficiency, demonstrating high resource optimization for midfield points scored.
-* **Top-Tier Benchmark:** **Red Bull Racing ($0.36M/Pt)** achieves optimal spending efficiency among top championship contenders.
-* **High Cost per Point:** **Ferrari ($0.49M/Pt)**, **Mercedes ($0.43M/Pt)**, and **McLaren ($0.43M/Pt)** show a higher cost-per-point ratio due to heavy capital investment in development cycles.
+* **Best Spending Efficiency:** **Haas ($0.17M/Pt)** and **Williams ($0.19M/Pt)** have the best cost-per-point spending efficiency numbers.
+* **Best-in-Class:** **Red Bull Racing ($0.36M/Pt)** demonstrates optimal spending efficiency among top championship competitors.
+* **Spending Efficiency:** **Ferrari ($0.49M/Pt)**, **Mercedes ($0.43M/Pt)** and **McLaren ($0.43M/Pt)** are demonstrating high cost-per-point ratio due to their capital expenditures in development cycles.
 
 
 
