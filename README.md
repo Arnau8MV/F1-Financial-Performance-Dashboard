@@ -1,11 +1,11 @@
-Formula 1 Financial Performance & Efficiency Analytics
+**Formula 1 Financial Performance & Efficiency Analytics**
 
-Project Overview
+
 This GitHub repository is home to a complete Power BI dashboard solution that analyzes financial dynamics, investor return on investment (ROI) and spending efficiency of Formula 1 teams before and after FIA budget cap rules.
 
 The dashboard helps analyze financial dynamics by establishing correlation between team operating budgets, sponsorship revenue sources, and race championship performances of the teams.
 
-Dashboards Preview & Insights
+*Dashboards Preview & Insights*
 
 1. Investor Return on Investment (ROI)
 Analyzes estimated operating return on investment across F1 constructors per season.
@@ -37,7 +37,8 @@ Measuring capital efficiency using the analysis of operating budget against cham
 
 
 
-Data Sources & Acknowledgments
+*Data Sources & Acknowledgments*
+
 The datasets used to construct this analysis were aggregated and synthesized from public data repositories and financial research:
 
 * **Performance & Standings Data:** Sourced from public [Kaggle](https://www.kaggle.com/) Formula 1 datasets (historical standings, points scored, and team performance metrics).
@@ -45,7 +46,7 @@ The datasets used to construct this analysis were aggregated and synthesized fro
 
 
 
-Tech Stack & Architecture
+*Tech Stack & Architecture*
 
 * **Analytics & Visualization:** Microsoft Power BI Desktop
 * **ETL & Data Transformation:** Power Query (Data cleaning, type casting, custom attributes)
