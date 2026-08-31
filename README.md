@@ -12,9 +12,12 @@ Analyzes estimated operating return on investment across F1 constructors per sea
 
 ![Investor ROI](ROI.png)
 
+As shown in this screen shot when the year 2025 is selected, the following conclusions can be taken:
 * **Market Leader:** The grid leader is **Red Bull Racing**, showing outstanding **83.82% ROI**, twice as high as that of any of its rivals due to the highest championship efficiency compared to its capital structure.
 * **Midfield Efficiency:** **McLaren (46.87%)**, **RB / AlphaTauri (43.02%)** and **Alpine (42.03%)** demonstrating balanced return on investment metrics, achieving maximum commercial efficiency in relation to operational expenses.
 * **Heavy Capital Teams:** The legacy teams such as **Ferrari (27.19%)** and **Mercedes (31.55%)** are demonstrating lower percentage returns due to their significantly higher operating structural costs.
+
+All this is after the FIA budget cap rules, but what happens if we go back to 2019 before those rules?
 
 
 2. Operating Budget vs. Sponsorship Revenue ($M)
