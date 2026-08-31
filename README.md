@@ -1,23 +1,34 @@
-**Formula 1 Financial Performance & Efficiency Analytics**
+**Financial Performance and Return on Investment (ROI) Analysis of Formula 1 Constructors**
+A Comparative Evaluation of 2019 and 2025
 
+*Executive Summary*
 
-This GitHub repository is home to a complete Power BI dashboard solution that analyzes financial dynamics, investor return on investment (ROI) and spending efficiency of Formula 1 teams before and after FIA budget cap rules.
-
-The dashboard helps analyze financial dynamics by establishing correlation between team operating budgets, sponsorship revenue sources, and race championship performances of the teams.
-
-*Dashboards Preview & Insights*
+This report analyzed the financial structures of Formula 1 constructors comparing the pre cost cap season of 2019 with the new regulatory environment of 2025. By analyzing key performance metrics like operational budgets, revenue streams of commercialization and sponsorship, through to metrics of cost per point and the resulting net investor return on investment, it highlights the changing landscape of financial sustainability and capital efficiency within F1 over a period of characterized by massive strategic restructuring.
 
 1. Investor Return on Investment (ROI)
-Analyzes estimated operating return on investment across F1 constructors per season.
 
-![Investor ROI](ROI.png)
+![Investor ROI](2019ROI.png)
 
-As shown in this screen shot when the year 2025 is selected, the following conclusions can be taken:
-* **Market Leader:** The grid leader is **Red Bull Racing**, showing outstanding **83.82% ROI**, twice as high as that of any of its rivals due to the highest championship efficiency compared to its capital structure.
-* **Midfield Efficiency:** **McLaren (46.87%)**, **RB / AlphaTauri (43.02%)** and **Alpine (42.03%)** demonstrating balanced return on investment metrics, achieving maximum commercial efficiency in relation to operational expenses.
-* **Heavy Capital Teams:** The legacy teams such as **Ferrari (27.19%)** and **Mercedes (31.55%)** are demonstrating lower percentage returns due to their significantly higher operating structural costs.
+In 2019, before the Capped Costs where applied, teams were able to spend all the money they wanted on developing the cars to be the most competitive on the grid. Making half of the teams of the grid to end the seasons with negative ROI as we can see **Mercedes** with a **-20.61%** or **McLaren** with a **-22.59%**. This means that the team's total operational costs and investments exceeded the total revenue they brought in, resulting in a huge financial loss relative to their spending. The same way we can see that the top tier teams had to spend a lot more money to get a single point on the champoinship, generating more disparity with the rest of the teams as we can see in the 
+Cost per Championship Point graph.
+
+
+
+
+As shown in this screen shot when the year 2025 is selected, **Red Bull Racing** is the most profitable team on the grid, with a **83.82%**. Almost doubling **McLaren** which is the second one with a **46.87%**.
+
+But why is this happening, how can it be possible for one brand to be this far away from their competitors?
+
+This is due to the Capped Costs that limits how much money they are allowed to spend (arround $140M) on developing the car. And to the massive revenue they get from their sponsorships, merchandise and championship prize money. If we take a look at the Operating Budget vs Sponsorship Revenue graph, we can see that **Red Bull Racing** is the only team on the greed that has more Sponsorship Revenue than Operating Budget.
+
+![Operating Budget vs Sponsorship](OBvsSR.png)
 
 All this is after the FIA budget cap rules, but what happens if we go back to 2019 before those rules?
+
+
+
+If we take a look at this bar chart, we can see that half of the teams of the f1 grid were not profitable.
+What we can take from here is that, the teams that spend the most money on developing the car might not be always the most profitable ones, because when you spend over 500M dollars on developing the car (as mercedes did that year) not even winning the championship retourns you all the investment you have made.
 
 
 2. Operating Budget vs. Sponsorship Revenue ($M)
