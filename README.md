@@ -5,14 +5,16 @@ A Comparative Evaluation of 2019 and 2025
 
 This report analyzed the financial structures of Formula 1 constructors comparing the pre cost cap season of 2019 with the new regulatory environment of 2025. By analyzing key performance metrics like operational budgets, revenue streams of commercialization and sponsorship, through to metrics of cost per point and the resulting net investor return on investment, it highlights the changing landscape of financial sustainability and capital efficiency within F1 over a period of characterized by massive strategic restructuring.
 
-1. Investor Return on Investment (ROI)
+1. Pre-Cost Cap Financial Disparity and ROI (2019)
 
 ![Investor ROI](2019ROI.png)
 
 In 2019, before the Capped Costs where applied, teams were able to spend all the money they wanted on developing the cars to be the most competitive on the grid. Making half of the teams of the grid to end the seasons with negative ROI as we can see **Mercedes** with a **-20.61%** or **McLaren** with a **-22.59%**. This means that the team's total operational costs and investments exceeded the total revenue they brought in, resulting in a huge financial loss relative to their spending. The same way we can see that the top tier teams had to spend a lot more money to get a single point on the champoinship, generating more disparity with the rest of the teams as we can see in the 
 Cost per Championship Point graph.
 
+![Cost Per Point](2019CostperChampionshipPoint.png)
 
+2. Operating Budgets vs Commercial Inflows (2019)
 
 
 As shown in this screen shot when the year 2025 is selected, **Red Bull Racing** is the most profitable team on the grid, with a **83.82%**. Almost doubling **McLaren** which is the second one with a **46.87%**.
